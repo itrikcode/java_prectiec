@@ -48,7 +48,17 @@ public class SetTest {
         set2.add(60);
         set2.add(10); 
         System.out.println("Set : " + set2);
-        
+
+   /*   [19, 20]
+        true
+        set is not empty
+        19
+        20
+        [19, 20]
+        2
+        Set : [50, 40, 4, 20, 60, 10]
+        Set : [4, 10, 20, 40, 50, 60]
+      */  
     }
 
   
